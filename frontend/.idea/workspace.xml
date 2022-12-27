@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="954b17a2-55c2-4576-8e57-2824d205621e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrQNqqknVZ1q1tltjvKhAwY3vq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects/Scannon/frontend",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\ScannonPreview\scripts\menu\implementations" />
+      <recent name="D:\Projects\ScannonPreview\levels\levels" />
+      <recent name="D:\Projects\ScannonPreview\levels\sequences" />
+      <recent name="D:\Projects\ScannonPreview\levels\groups" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\ScannonPreview\levels\sequences" />
+      <recent name="$PROJECT_DIR$/scripts/structures" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="D:\Projects\ScannonPreview\objects\implementations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/scannonPreview/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="menu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ScannonPreview/preview/js/menu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scripts/index.js" working-dir="$PROJECT_DIR$/scripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="menu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/preview/js/menu.js" working-dir="$PROJECT_DIR$/preview/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.menu.html" />
+        <item itemvalue="Node.js.menu.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954b17a2-55c2-4576-8e57-2824d205621e" name="Changes" comment="" />
+      <created>1669040685990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669040685990</updated>
+      <workItem from="1669040687115" duration="14674000" />
+      <workItem from="1669056923243" duration="4972000" />
+      <workItem from="1669133575154" duration="1930000" />
+      <workItem from="1669194381056" duration="197000" />
+      <workItem from="1669536857368" duration="7437000" />
+      <workItem from="1669645610768" duration="11283000" />
+      <workItem from="1669725203595" duration="4519000" />
+      <workItem from="1669749950716" duration="179000" />
+      <workItem from="1669802578419" duration="600000" />
+      <workItem from="1669967073966" duration="2043000" />
+      <workItem from="1669972299256" duration="8383000" />
+      <workItem from="1670095655521" duration="306000" />
+      <workItem from="1670152075854" duration="8715000" />
+      <workItem from="1670225203735" duration="8127000" />
+      <workItem from="1670332860171" duration="4766000" />
+      <workItem from="1670351880213" duration="4706000" />
+      <workItem from="1670404192874" duration="3521000" />
+      <workItem from="1670412403220" duration="4794000" />
+      <workItem from="1670574359729" duration="8886000" />
+      <workItem from="1670747931267" duration="2738000" />
+      <workItem from="1670753173155" duration="2416000" />
+      <workItem from="1670832577396" duration="11726000" />
+      <workItem from="1670923444626" duration="37000" />
+      <workItem from="1670932360244" duration="3160000" />
+      <workItem from="1670948896597" duration="1766000" />
+      <workItem from="1671010391820" duration="234000" />
+      <workItem from="1671183507075" duration="4283000" />
+      <workItem from="1671387801557" duration="415000" />
+      <workItem from="1671449118609" duration="1278000" />
+      <workItem from="1671525826287" duration="98000" />
+      <workItem from="1671550315100" duration="3527000" />
+      <workItem from="1671985128609" duration="1630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/menu/implementations/SignInMenu.mjs</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/objects/Scene.js</url>
+          <line>116</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/objects/implementations/Cannon.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="result[&quot;0&quot;].levels" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

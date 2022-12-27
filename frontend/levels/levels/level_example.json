@@ -1,0 +1,7 @@
+{
+  "name": "Rules",
+  "type": "default",
+  "sequences": [
+    "sequence_examples"
+  ]
+}

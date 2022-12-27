@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "type": "brackets_open_only_for_first_argument",
+      "eng": "Brackets wrong open",
+      "rus": "Неправильно открыл скобки"
+    },
+    {
+      "type": "brackets_open_mistake",
+      "eng": "Brackets wrong open",
+      "rus": "Неправильно открыл скобки"
+    },
+    {
+      "type": "negative_first_number",
+      "eng": "Negative first number",
+      "rus": "Забыл минус у числа"
+    },
+    {
+      "type": "minus_on_minus_is_plus",
+      "eng": "Minus multiply minus",
+      "rus": "Минус на минус дает плюс"
+    },
+    {
+      "type": "multiplication_commutativity",
+      "eng": "Multiplication commutative",
+      "rus": "Коммутативность умножения"
+    },
+    {
+      "type": "additional_operands_reducing",
+      "eng": "Additional operands",
+      "rus": "Ошибка уменьшение операнд (иксов)"
+    },
+    {
+      "type": "big_amount_of_transformations",
+      "eng": "Big amount of transformations",
+      "rus": "Ошибка при выполнении много действий подряд"
+    },
+    {
+      "type": "sum_operation_mistake",
+      "eng": "Wrong sum operation",
+      "rus": "Неправильное сложение"
+    },
+    {
+      "type": "mul_mistake",
+      "eng": "Wrong multiplication",
+      "rus": "Неправильное умножение"
+    }
+  ]
+}

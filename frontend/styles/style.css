@@ -1,0 +1,308 @@
+@font-face {
+    font-family: Fredoka One;
+    src: url('../fonts/FredokaOne-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+}
+
+.c {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #22222222;
+}
+
+.content_reverse {
+    display: flex;
+    flex-direction: column;
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #22222222;
+}
+
+.panel {
+    margin-top: 100px;
+
+    align-self: center;
+    background: #6bd7f2;
+    width: 1200px;
+    height: 700px;
+
+    display: flex;
+    flex-direction: column;
+
+
+    border-radius: 20px;
+
+    outline: solid;
+    outline-width: 6px;
+    outline-color: #fcfffe;
+}
+
+.header_white {
+    text-shadow: -1px -1px 1px white;
+
+    font-size: 120px;
+    font-family: Fredoka One;
+    background: #11111155;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+    text-align: center;
+
+}
+
+.text_white {
+    text-shadow: -1px -1px 1px white;
+
+    font-size: 60px;
+    font-family: Fredoka One;
+    background: #11111155;
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+
+
+.header {
+    margin-top: -90px;
+
+    font-size: 260px;
+    font-family: Fredoka One;
+    background: -webkit-linear-gradient(#fa60c4, #f541b0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: #fcfffe;
+
+    text-align: center;
+
+}
+
+.ui {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: transparent;
+}
+
+.level_card {
+
+    padding-top: 100px;
+
+    width: 200px;
+    height: 300px;
+
+    align-self: center;
+
+    border-radius: 20px;
+}
+
+
+.topline {
+    border-radius: 20px;
+    background: repeating-linear-gradient(
+            45deg,
+            #6bd7f2,
+            #6bd7f2 20px,
+            #31c8ec 20px,
+            #31c8ec 40px
+    );
+
+    display: flex;
+    flex-direction: column;
+}
+
+.level_design {
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    border-radius: 20px;
+
+
+    background: repeating-linear-gradient(
+            45deg,
+            #6bd7f2,
+            #6bd7f2 20px,
+            #31c8ec 20px,
+            #31c8ec 40px
+    );
+
+    border: solid;
+    border-width: 4px;
+    border-color: #31c8ec;
+
+    outline: solid;
+    outline-width: 6px;
+    outline-color: #fcfffe;
+}
+
+.level_design:hover {
+    background: repeating-linear-gradient(
+            45deg,
+            #ec26a2,
+            #ec26a2 20px,
+            #ed4ea9 20px,
+            #ed4ea9 40px
+    );
+
+    border-color: #da2296;
+}
+
+.spliter {
+    background: #fcfffe;
+    height: 0px;
+
+    outline: solid;
+    outline-width: 4px;
+    outline-color: #fcfffe;
+}
+
+.button {
+    align-self: center;
+
+    padding-bottom: 15px;
+    padding-top: 5px;
+
+    border: none;
+    width: 250px;
+    text-align: center;
+    stroke: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+    font-size: 35px;
+    font-family: Fredoka One;
+    background: -webkit-linear-gradient(#fcfffe, #fcfffe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.small_button {
+    align-self: center;
+    border-radius: 20px;
+
+    padding-top: 15px;
+
+    margin-bottom: 40px;
+
+    outline: solid;
+    outline-width: 6px;
+    outline-color: #fcfffe;
+    align-content: center;
+
+    border: none;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    stroke: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+    font-size: 35px;
+    font-family: Fredoka One;
+    color: white;
+    background: #6bd7f2;
+
+}
+
+.small_button:hover {
+    color: white;
+    background: #da2296;
+
+}
+
+.button:hover {
+    -webkit-text-stroke-color: #da2296;
+}
+
+.fit-picture {
+    padding-top: 25px;
+    width: 192px;
+    height: 192px;
+}
+
+.flexbox_vertical {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.flexbox_vertical_reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    height: 100%;
+}
+
+.flexbox_horizontal {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+
+.fit-picture-small {
+    padding-top: 25px;
+    width: 96px;
+    height: 96px;
+}
+
+.fit-picture-small-button {
+    margin-left: 20px;
+
+    padding-top: 25px;
+    width: 96px;
+    height: 96px;
+
+    -webkit-filter: drop-shadow(2px 2px 1px #22222222) drop-shadow(-2px 2px 1px #22222222) drop-shadow(2px -2px 1px #22222222) drop-shadow(-2px -2px 1px #22222222);
+
+    filter: drop-shadow(2px 2px 1px #22222222) drop-shadow(-2px 2px 1px #22222222) drop-shadow(2px -2px 1px #22222222) drop-shadow(-2px -2px 1px #22222222);
+}
+
+.fit-picture-small-button:hover {
+
+    padding-top: 25px;
+    width: 96px;
+    height: 96px;
+
+    -webkit-filter: drop-shadow(2px 2px 1px #DDDDDD22) drop-shadow(-2px 2px 1px #DDDDDD22) drop-shadow(2px -2px 1px #DDDDDD22) drop-shadow(-2px -2px 1px #DDDDDD22);
+
+    filter: drop-shadow(2px 2px 1px #DDDDDD22) drop-shadow(-2px 2px 1px #DDDDDD22) drop-shadow(2px -2px 1px #DDDDDD22) drop-shadow(-2px -2px 1px #DDDDDD22);
+}
+
+.margin_20 {
+    margin: 10px;
+}

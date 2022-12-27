@@ -1,0 +1,7 @@
+{
+  "name": "Tutorial",
+  "type": "tutorial",
+  "sequences": [
+    "sequence_tutorial"
+  ]
+}
