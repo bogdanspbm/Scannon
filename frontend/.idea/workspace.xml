@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/Scannon/frontend",
+    "last_opened_file_path": "D:/Projects/Scannon/backend",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -131,6 +131,7 @@
       <workItem from="1671525826287" duration="98000" />
       <workItem from="1671550315100" duration="3527000" />
       <workItem from="1671985128609" duration="1630000" />
+      <workItem from="1672213074491" duration="606000" />
     </task>
     <servers />
   </component>
