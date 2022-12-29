@@ -1,4 +1,4 @@
-# Sring Backend
+# Spring Backend
 
 Backend также можно развернуть двумя способами. Через docker или напрямую на сервере.
 
